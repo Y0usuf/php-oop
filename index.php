@@ -485,3 +485,5 @@ $joseph->sayHello('yusuf'); // hello yusuf
 
 
 // Namespace & use
+// namespace dosyanin sadece basina eklenebilir.
+// bunun mantigi bizim buyuk bir projede yuzlerce hatta binlerce class'imiz olabilir bu durumda bunlarin icinde ayni isme sahip olanlar cakisabilir. Bunun onune gecmek ve classlarimizi daha saglikli yonetebilmek icin namespace kullaniriz. Boylece hem daha duzenli hemde daha ulasilabilir bir gelistirme yapmis oluruz.
